@@ -1,1 +1,22 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+body {
+  background-color: #b8bcc4;
+}
+
+main {
+  padding: 60px;
+  text-align: center;
+  color: blue;
+}
+
+button {
+  width: 200px;
+  height: 50px;
+  background-color: #b8bcc4;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+h1 {
+  color: black;
+}
+/*# sourceMappingURL=style.css.map */

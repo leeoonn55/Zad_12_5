@@ -1,0 +1,25 @@
+$color-primary1: #b8bcc4;
+$color-text1: blue;
+$color-text2: black;
+
+body {
+    background-color: $color-primary1;
+}
+
+main {
+    padding: 60px;
+    text-align: center; 
+    color: $color-text1;
+}
+
+button {
+    width: 200px;
+    height: 50px;
+    background-color: $color-primary1;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+h1 {
+    color: $color-text2;
+}
